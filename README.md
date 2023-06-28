@@ -1,1 +1,1 @@
-https://viktoriacvg.github.io/cv
+https://viktoriacvg.github.io/cv/index.html
